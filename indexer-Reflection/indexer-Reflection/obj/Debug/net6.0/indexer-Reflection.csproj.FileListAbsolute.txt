@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\bin\Debug\net6.0\indexer-Reflection.exe
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\bin\Debug\net6.0\indexer-Reflection.deps.json
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\bin\Debug\net6.0\indexer-Reflection.runtimeconfig.json
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\bin\Debug\net6.0\indexer-Reflection.dll
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\bin\Debug\net6.0\indexer-Reflection.pdb
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.dll
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\refint\indexer-Reflection.dll
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.pdb
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\indexer-Reflection.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Indexer\indexer-Reflection\indexer-Reflection\obj\Debug\net6.0\ref\indexer-Reflection.dll
